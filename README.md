@@ -5,4 +5,3 @@
 ![image](https://github.com/fillet0117/jsproduct1-changeBackground/blob/master/demo.gif)
   
 第二版
-![image](https://github.com/fillet0117/jsproduct1-changeBackground/blob/master/demo2.png)
