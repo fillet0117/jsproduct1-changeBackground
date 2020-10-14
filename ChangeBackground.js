@@ -3,6 +3,7 @@ function changecolor() {
   //   let color = getRandcolor();
   document.body.style.backgroundColor = color;
   document.getElementById("btn").style.backgroundColor = color;
+  document.getElementById("colorset").innerHTML = color;
 }
 
 function getRandcolor() {
@@ -37,5 +38,5 @@ function getRandcolor() {
 }
 
 function getRandomcolor() {
-  return "#" + Math.random().toString(16).substring(2, 8);
+  return "#" + (Math.random().toString(16).substring(2, 8)).toUpperCase();
 }
