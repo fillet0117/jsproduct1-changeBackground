@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  background-color: lightblue;
+  border: 2px solid #e7e7e7;
+  font-size: 24px;
+  padding: 10px 24px;
+  border-radius: 4px;
+  transition-duration: 0.2s;
+}
+
+.btn:hover {
+  color: white;
+  /* background-color: lightblue; */
+  /* background-color: #e7e7e7; */
+}
